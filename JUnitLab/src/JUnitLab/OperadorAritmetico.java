@@ -2,7 +2,7 @@ package JUnitLab;
 
 public class OperadorAritmetico {
 	public static int suma(int a, int b) {
-		return a + a;
+		return a + b;
 	}
 
 	public static int division(int a, int b) throws Exception {
