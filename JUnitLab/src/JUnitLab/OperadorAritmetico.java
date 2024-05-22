@@ -9,6 +9,6 @@ public class OperadorAritmetico {
 		if (b == 0) {
 			throw new Exception();
 		}
-		return a + b;
+		return a - b;
 	}
 }
